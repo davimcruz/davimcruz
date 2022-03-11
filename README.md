@@ -6,9 +6,10 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="Galaxy-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/757478981493719080/26d90653badbe81ce580ad5d40b20591.png?size=2048">
 </div>
   
