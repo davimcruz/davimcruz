@@ -11,7 +11,7 @@
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" 
-        src="https://cdn.discordapp.com/avatars/757478981493719080/26d90653badbe81ce580ad5d40b20591.png?width=676&height=676">
+        src="https://cdn.discordapp.com/avatars/757478981493719080/26d90653badbe81ce580ad5d40b20591.png?size=2048">
 </div>
 
   ##
