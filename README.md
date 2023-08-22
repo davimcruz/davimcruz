@@ -23,7 +23,8 @@
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-cplusplus-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 
 
 ### Studying in this moment:
