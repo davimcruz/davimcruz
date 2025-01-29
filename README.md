@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=header" style="width: 100%;" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Davi+M.;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -9,8 +11,8 @@
 </p>
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=davimcruz&theme=dark" alt="davimcruz" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimcruz&layout=compact&hide_border=true&title_color=0077b6&text_color=0077b6&bg_color=0d1117" />
+
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimcruz&layout=compact&hide_border=true&title_color=0077b6&text_color=0077b6&bg_color=0d1117" />
 </div>
  
 <h3 align="center">Languages and Tools:</h3>
